@@ -1,6 +1,6 @@
-# Ridiculous History Website
+# Absurd History Website
 
-Super basic website for Ridiculous History.
+Super basic website for Absurd History.
 
 ## How to make a new episode page
 

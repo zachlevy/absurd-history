@@ -1,5 +1,5 @@
 {
-  "name": "ridiculous-history",
+  "name": "absurd-history",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "deploy": "GA_ID=UA-123 TIMESTAMP=\"$(date +%s)\" aws s3 sync src/ s3://ridiculoushistory.com"
+    "deploy": "GA_ID=UA-123 TIMESTAMP=\"$(date +%s)\" aws s3 sync src/ s3://absurdhistory.com"
   }
 }
