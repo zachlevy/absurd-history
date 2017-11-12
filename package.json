@@ -1,0 +1,14 @@
+{
+  "name": "ridiculous-history",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "deploy": "GA_ID=UA-123 TIMESTAMP=\"$(date +%s)\" aws s3 sync src/ s3://ridiculoushistory.com"
+  }
+}
