@@ -16,3 +16,6 @@ a:focus,
 a:active {
   color: #19226d;
 }
+.no-margin {
+  margin: 0;
+}
