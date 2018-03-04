@@ -5,3 +5,14 @@ body {
 .navbar-absurd {
   background-color: #f900d0 !important;
 }
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255,255,255,.8);
+}
+a {
+  color: #1a36a3;
+}
+a:hover,
+a:focus,
+a:active {
+  color: #19226d;
+}
